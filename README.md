@@ -1,4 +1,4 @@
-# Projeto Saúde
+# Heart & Health
 Projeto de landing page abordando a saúde cardiovascular, desenvolvido com HTML5 e CSS3.
 
 Ao ser acessada, a página apresenta uma estrutura simples, direta e totalmente responsiva, trazendo informações essenciais sobre prevenção, cuidados e conscientização da saúde do coração. O layout foi pensado para ser leve, acessível e visualmente agradável, destacando o conteúdo de forma clara para diferentes tipos de usuários.
